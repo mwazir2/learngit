@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("second try")
         print("its all success")
         print("lulz")
+        print("this conflict")
     }
 
     override func didReceiveMemoryWarning() {
