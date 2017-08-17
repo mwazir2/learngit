@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("kraken")
         print("second try")
         print("its all success")
+        print("lulz")
     }
 
     override func didReceiveMemoryWarning() {
