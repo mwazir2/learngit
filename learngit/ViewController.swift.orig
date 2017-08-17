@@ -14,11 +14,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         print("hello world")
-<<<<<<< HEAD
+
         print("Wasappppp")
-=======
+<<<<<<< HEAD
+
         print("changes hafiz")
->>>>>>> changes hafiz
+
+=======
+        print("weyyy")
+>>>>>>> Add weyy
     }
 
     override func didReceiveMemoryWarning() {
