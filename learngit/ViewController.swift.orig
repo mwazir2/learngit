@@ -13,18 +13,27 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-<<<<<<< HEAD
         print("123")
+<<<<<<< HEAD
+        print("456")
+        print("789")
 =======
-        print("lambo")
->>>>>>> lembu
+>>>>>>> master
+        print("aiman")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    func playVideo(){
+        print("wohooo")
+    }
+    
+    func testing() {
+        print("hello world")
+    }
 
 }
 
