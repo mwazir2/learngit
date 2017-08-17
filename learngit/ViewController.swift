@@ -15,12 +15,14 @@ class ViewController: UIViewController {
 
         print("123")
         print("lambo")
+        print("kraken")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
 
 
 }
