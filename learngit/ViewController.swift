@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         print("123")
+        print("aiman")
     }
 
     override func didReceiveMemoryWarning() {
