@@ -29,6 +29,10 @@ class ViewController: UIViewController {
     func playVideo(){
         print("wohooo")
     }
+    
+    func testing() {
+        print("hello world")
+    }
 
 }
 
